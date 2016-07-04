@@ -1,1 +1,1 @@
-// JavaScript to be added
+//These are the changes// JavaScript to be added
